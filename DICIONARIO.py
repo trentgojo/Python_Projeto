@@ -1,0 +1,4 @@
+#DICIONARIO
+
+print("DICIONARIO")
+print("")
